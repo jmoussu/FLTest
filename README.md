@@ -9,11 +9,14 @@ Michel est un pompier qui a besoin d'une échelle de la bonne taille pour secour
 Exemple :
 Pour 2 étages et en exécutant la commande : `node exo1.js 2`
 Résultat attendu :
+```
 |  |
 |--|
 |  |
 |--|
 |  |
+```
+
 
 ## Exercice 2
 
