@@ -36,6 +36,8 @@ La cigale n'a pas fait de provisions pour l'hiver et risque de mourir. Les fourm
 
 Votre programme `exo3.js` doit renvoyer le nombre de points de vie restants de la cigale ou "Morte" si elle est décédée.
 
+exo3.js H D F P
+
 Exemples :
 - `node exo3.js 120 3 20 10` => Sortie : `90`
 - `node exo3.js 40 5 20 10` => Sortie : `"Dead"`
