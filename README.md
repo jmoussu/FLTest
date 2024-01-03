@@ -43,4 +43,4 @@ exo3.js H D F P
 
 Exemples :
 - `node exo3.js 120 3 20 10` => Sortie : `90`
-- `node exo3.js 40 5 20 10` => Sortie : `"Dead"`
+- `node exo3.js 40 5 20 10` => Sortie : `"Morte"`
