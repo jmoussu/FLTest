@@ -1,0 +1,23 @@
+1. React
+
+    Quelle est la différence entre React, React Native et une application native ?
+    À quoi sert le hook useEffect dans React ?
+    Qu'est-ce que le hook useState et comment l'utilise-t-on ?
+    Quand utilise-t-on le hook useRef en React ?
+
+2. MongoDB
+
+    Quelle est la différence entre SQL et NoSQL ?
+    Qu'est-ce qu'une collection en MongoDB ?
+    À quoi servent aggregate et $lookup en MongoDB ?
+
+3. Sécurité
+
+    Qu'est-ce qui change entre HTTP et HTTPS ?
+    Qu'est-ce qu'un JWT (JSON Web Token) et à quoi sert-il ?
+
+4. DevOps
+
+    Que représente le concept de DevOps pour toi ?
+    Quelle est la différence entre un DevOps et un administrateur système (admin sys) ?
+    As-tu déjà travaillé avec AWS (Amazon Web Services) ? Si oui, quels services connais-tu ?

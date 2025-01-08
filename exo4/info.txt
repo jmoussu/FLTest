@@ -1,0 +1,27 @@
+Voici une version améliorée de l'énoncé :
+
+Objectif :
+Créer votre carte d’identité française fictive à partir de zéro en respectant les consignes suivantes.
+
+Technologies autorisées :
+
+    HTML, Jade, Pug
+    CSS, SCSS, ou SASS
+
+Pour tout autre outil ou technologie, veuillez demander l’autorisation préalable de l’examinateur.
+
+Ressources disponibles :
+
+    Un exemple de carte d’identité pour référence
+    Une photo d’identité (vous pouvez utiliser la vôtre)
+
+Consignes :
+
+    Les éléments tels que logos, signatures ou autres éléments officiels ne sont pas requis.
+    Concentrez-vous sur la mise en page et le style pour produire un rendu clair et propre.
+
+Bonus :
+Ajoutez un formulaire interactif permettant d’éditer dynamiquement les champs Nom et Prénom.
+
+Temps alloué :
+30 minutes
